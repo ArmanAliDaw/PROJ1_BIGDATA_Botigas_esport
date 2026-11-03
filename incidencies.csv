@@ -1,0 +1,58 @@
+fila_csv,tipus,camp,valor_original,accio
+2,REBUTJAT,botiga,,Camp obligatori buit
+2,REBUTJAT,unitats,1O,Enter no positiu o no vàlid
+5,REBUTJAT,data,2025-11-31,Data amb format incorrecte o no vàlida
+9,REBUTJAT,distancia_km,gratis,Distància no positiva o no numèrica
+9,REBUTJAT,data,2025/13/01,Data amb format incorrecte o no vàlida
+11,REBUTJAT,familia_esportiva,,Camp obligatori buit
+12,CORRECCIO,distancia_km,"76,1",Coma convertida a punt decimal
+15,REBUTJAT,data,2025.06.10,Data amb format incorrecte o no vàlida
+19,REBUTJAT,familia_esportiva,,Camp obligatori buit
+19,REBUTJAT,unitats,12 unitats,Enter no positiu o no vàlid
+21,CORRECCIO,distancia_km,"124,7",Coma convertida a punt decimal
+21,REBUTJAT,data,2025-14-03,Data amb format incorrecte o no vàlida
+23,REBUTJAT,data,2025-02-29,Data amb format incorrecte o no vàlida
+24,CORRECCIO,distancia_km,"125,1",Coma convertida a punt decimal
+25,REBUTJAT,article,,Camp obligatori buit
+31,CORRECCIO,distancia_km,"115,9",Coma convertida a punt decimal
+36,CORRECCIO,distancia_km,"22,6",Coma convertida a punt decimal
+49,REBUTJAT,article,,Camp obligatori buit
+49,REBUTJAT,unitats,tres,Enter no positiu o no vàlid
+49,CORRECCIO,distancia_km,"132,5",Coma convertida a punt decimal
+56,REBUTJAT,familia_esportiva,,Camp obligatori buit
+56,REBUTJAT,botiga,,Camp obligatori buit
+61,REBUTJAT,data,,Data amb format incorrecte o no vàlida
+67,REBUTJAT,unitats,4x,Enter no positiu o no vàlid
+67,REBUTJAT,distancia_km,12 unitats,Distància no positiva o no numèrica
+68,CORRECCIO,distancia_km,"231,7",Coma convertida a punt decimal
+69,REBUTJAT,article,,Camp obligatori buit
+71,REBUTJAT,article,,Camp obligatori buit
+71,REBUTJAT,familia_esportiva,,Camp obligatori buit
+71,REBUTJAT,unitats,0,Enter no positiu o no vàlid
+72,REBUTJAT,unitats,??,Enter no positiu o no vàlid
+72,REBUTJAT,distancia_km,,Distància no positiva o no numèrica
+75,REBUTJAT,botiga,,Camp obligatori buit
+77,REBUTJAT,distancia_km,4/5,Distància no positiva o no numèrica
+78,REBUTJAT,unitats,"3,0",Enter no positiu o no vàlid
+78,REBUTJAT,distancia_km,-12.5,Distància no positiva o no numèrica
+81,REBUTJAT,botiga,,Camp obligatori buit
+88,REBUTJAT,distancia_km,aprox. 25,Distància no positiva o no numèrica
+88,REBUTJAT,data,31/04/2025,Data amb format incorrecte o no vàlida
+90,REBUTJAT,unitats,dos,Enter no positiu o no vàlid
+90,REBUTJAT,distancia_km,0,Distància no positiva o no numèrica
+91,REBUTJAT,distancia_km,--,Distància no positiva o no numèrica
+91,REBUTJAT,data,ahir,Data amb format incorrecte o no vàlida
+93,REBUTJAT,botiga,,Camp obligatori buit
+93,REBUTJAT,unitats,-4,Enter no positiu o no vàlid
+97,REBUTJAT,familia_esportiva,,Camp obligatori buit
+97,REBUTJAT,unitats,2.5,Enter no positiu o no vàlid
+103,REBUTJAT,distancia_km,"1,2,3",Distància no positiva o no numèrica
+103,REBUTJAT,data,2025-02-30,Data amb format incorrecte o no vàlida
+104,REBUTJAT,data,01-15-2025,Data amb format incorrecte o no vàlida
+111,CORRECCIO,distancia_km,"231,8",Coma convertida a punt decimal
+112,REBUTJAT,unitats,-1,Enter no positiu o no vàlid
+112,REBUTJAT,distancia_km,15..90,Distància no positiva o no numèrica
+116,REBUTJAT,distancia_km,NaN?,Distància no positiva o no numèrica
+116,REBUTJAT,data,2025-00-12,Data amb format incorrecte o no vàlida
+120,REBUTJAT,unitats,,Enter no positiu o no vàlid
+120,REBUTJAT,distancia_km,abc,Distància no positiva o no numèrica

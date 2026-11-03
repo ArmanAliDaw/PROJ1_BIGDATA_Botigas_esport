@@ -1,0 +1,24 @@
+=========================================
+INFORME EXECUTIU DE VENDES
+=========================================
+Data de generació: 2026-11-03 19:36
+Cobertura: 90/120 registres vàlids (30 rebutjats)
+
+INDICADORS GLOBALS:
+- Total unitats venudes: 3669
+- Unitats mitjanes per línia: 40.77
+- Distància mitjana: 127.25 km
+
+UNITATS PER FAMÍLIA:
+- Accessoris: 446 unitats
+- Material de raqueta: 766 unitats
+- Roba: 666 unitats
+- Pilotes: 892 unitats
+- Calçat: 899 unitats
+
+UNITATS PER BOTIGA:
+- Lleida: 591 unitats
+- Manresa: 908 unitats
+- Barcelona: 537 unitats
+- Girona: 949 unitats
+- Tarragona: 684 unitats
